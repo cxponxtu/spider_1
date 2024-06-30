@@ -1,4 +1,13 @@
-![imageeee](./round.png)
+# Spider Software Task 1
+> Click on domain for documentation and demos.
 
+Environment : Debian 12 (Bookworm)
+## Comon Tasks
+- [OS](./Common_task/OS/)
+- [DBMS](./Common_task/DBMS/)
+- [Computer Networking](./Common_task/Networking/README.md) 
 
-https://github.com/realityrevanth/spider_1/assets/88923943/299aac27-565b-4dca-b73e-a36c5b067bcc
+## Domain Specific Tasks
+- [DevOps](./Domain_specific/DevOps/)
+- [CyberSecurity](./Domain_specific/CyberSecurity/README.md)
+- [Computer Networking](./Domain_specific/Networking/README.md)
