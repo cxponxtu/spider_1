@@ -3,7 +3,7 @@
 ## 1) Basics of terminal
 ### List network interfaces 
 - To list interfaces, I found three commands i.e. `ifconfig`, `ip address` and `nmcli`
-- Output of above commands :
+- Output of above commands :\
 ![interface_ifconfig](./interface_ifconfig.png)
 ![interface_ip](./interface_ip.png)
 ![interface_nmcli](./interface_nmcli.png)
@@ -11,11 +11,11 @@
 ### Assign Static IP (Using `ip` command)
 - To assign static IP and subnet mask
 ![ip_change](./ip_change.png)
-- To change default gateway
+- To change default gateway\
 ![gateway_change](./gateway_change.png)
 - To change DNS to Cloudflare DNS. (Cannot be done by `ip`)
 ![dns_change](./dns_change.png)
-- Result of DNS change
+- Result of DNS change\
 ![dns_result](./dns_result.png)
 
 ### Ping a remote server
@@ -40,5 +40,5 @@
 ![bus](./bus.png)
 ### Ring
 - In this topology, end devices are connected to switch and switches are connected in ring manner.
-![ring](./ring.png)
+![ring](./round.png)
 
